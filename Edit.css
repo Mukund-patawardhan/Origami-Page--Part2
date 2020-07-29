@@ -1,0 +1,70 @@
+/**{
+    border:solid;
+}*/
+
+.animalsBirds{
+    display:flex;
+    justify-content: space-between;
+}
+.animals{
+    
+}
+.birds{
+    
+}
+.planes{
+    display:flex;
+    justify-content: center;
+}
+.OrigamiInfo{
+    display:flex;
+    justify-content: center;
+}
+.ANIMALS{
+    display:flex;
+    justify-content: space-between;
+}
+.panda{
+    display:flex;
+    justify-content: flex-start;
+}
+.cat{
+    display:flex;
+    justify-content: flex-end;
+}
+.turtle{
+    display:flex;
+    justify-content: flex-start;
+}
+.infoC{
+    display: flex;
+    justify-content: flex-end;
+}
+.a{
+    flex-grow: 0.1;
+}
+.AllBirds{
+    display:flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+.BIRDS{
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.item{
+    
+}
+.PLANES{
+    display:flex;
+    justify-content: flex-start;
+    border:solid;
+}
+.stats{
+    flex-grow: 0.2;
+}
+.im{
+    flex-grow:0;
+}
+
